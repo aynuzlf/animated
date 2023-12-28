@@ -1,3 +1,8 @@
+==foods==
 apple
 chicken
 potato
+==movies==
+commedy anime
+natural geography
+discovery
