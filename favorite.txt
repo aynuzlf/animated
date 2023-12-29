@@ -2,6 +2,7 @@
 apple
 chicken
 potato
+
 ==movies==
 commedy anime
 natural geography
@@ -11,3 +12,8 @@ discovery
 running
 soccer
 bowling
+
+==merch==
+trousers
+hoodies
+sweatshirt
