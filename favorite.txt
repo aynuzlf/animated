@@ -1,19 +1,5 @@
-==foods==
-apple
-chicken
-potato
-
-==movies==
-commedy anime
-natural geography
-discovery
-
-===sport===
+==sport==
 running
 soccer
-bowling
+volleyball
 
-==merch==
-trousers
-hoodies
-sweatshirt
